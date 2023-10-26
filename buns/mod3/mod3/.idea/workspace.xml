@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1170a4-82c6-4c83-959c-cf36a0ea86c6" name="Changes" comment="mod2(unfinished) + mod3(unfinished)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibarnate_many_to_many/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibarnate_many_to_many/entity/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibarnate_many_to_many/entity/Section.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_many/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_many/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_many/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_one/Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_one/ConsoleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_one/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_one/entity/Detail.java" afterDir="false" />
+    <list default="true" id="2b1170a4-82c6-4c83-959c-cf36a0ea86c6" name="Changes" comment="mod3(finished)">
+      <change afterPath="$PROJECT_DIR$/../../mod4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/src/main/java/com/pavelhaimov/spring/mvc/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/src/main/webapp/WEB-INF/view/first-view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mod4/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate_test/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate_one_to_one/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate_test/entity/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate_test/entity/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate_test/entity/Test1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,23 +57,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Pavel/Documents/GitHub/Java_Spring_urfu/buns/mod3/mod3/src/main/java/hibernate_one_to_many",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.7045977",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pavel/Documents/GitHub/Java_Spring_urfu/buns/mod3/mod3/src/main/java/hibernate_one_to_many&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.7045977&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Pavel\Documents\GitHub\Java_Spring_urfu\buns\mod3\mod3\src\main\java\hibernate_one_to_many" />
@@ -177,7 +171,8 @@
       <updated>1696938181758</updated>
       <workItem from="1696938182880" duration="4127000" />
       <workItem from="1697372126410" duration="6000" />
-      <workItem from="1697536359539" duration="15478000" />
+      <workItem from="1697536359539" duration="16925000" />
+      <workItem from="1698151697038" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="mod2(unfinished) + mod3(unfinished)">
       <option name="closed" value="true" />
@@ -187,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696944281896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mod3(finished)">
+      <option name="closed" value="true" />
+      <created>1697986722321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697986722321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +209,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mod2(unfinished) + mod3(unfinished)" />
-    <option name="LAST_COMMIT_MESSAGE" value="mod2(unfinished) + mod3(unfinished)" />
+    <MESSAGE value="mod3(finished)" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod3(finished)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
